@@ -33,7 +33,7 @@ Coming soon...
  
 ## Roadmap
 * Phase 1: Basic Document Management
-* User & Permission Management
+* Phase 2: User & Permission Management
 * ...
 
 ## Getting Started

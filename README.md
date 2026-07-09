@@ -29,12 +29,12 @@ An enterprise-focused smart document management system for organizing organizati
 Coming soon...
 
 ## Project Modules
-
-Coming soon...
+* Document Management
+* ...
 
 ## Roadmap
-
-Coming soon...
+* Phase 1: Basic Document Management
+* Phase 2: ...
 
 ## Getting Started
 

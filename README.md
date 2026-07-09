@@ -1,17 +1,14 @@
 # Smart Document Management
 
 ## Description
-
 An enterprise-focused smart document management system for organizing organizational knowledge, managing document workflows, controlling access, and enabling intelligent search across internal content.
 
 ## Main Goal
-
 * Reduce fragmentation of organizational documents and knowledge
 * Provide faster and easier access to internal information
 * Improve the management, sharing, and reuse of organizational knowledge
 
 ## Key Features
-
 * Document Upload
 * Document Categorization
 * Smart Search
@@ -19,28 +16,29 @@ An enterprise-focused smart document management system for organizing organizati
 * Document Workflow Management
 
 ## Tech Stack
-
 * Backend: C# / .NET
 * Frontend: Angular
 * AI / Automation: Python
 
 ## Architecture
-
 Coming soon...
 
 ## Project Modules
 * Document Management
-* ...
-
+* User Management
+* Folder / Category Management
+* Permission Management
+* Search & Indexing
+* Audit Log
+ 
 ## Roadmap
 * Phase 1: Basic Document Management
-* Phase 2: ...
+* User & Permission Management
+* ...
 
 ## Getting Started
-
 Coming soon...
 
 ## License
-
 Coming soon...
 
